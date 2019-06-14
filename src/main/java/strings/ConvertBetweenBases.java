@@ -1,4 +1,4 @@
-package me.personal.prep.strings;
+package strings;
 
 public class ConvertBetweenBases {
 
