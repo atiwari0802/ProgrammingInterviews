@@ -1,6 +1,5 @@
-package me.personal.prep.arrays;
+package strings;
 
-import me.personal.prep.strings.ConvertBetweenBases;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
