@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25dc9be1-4e4c-4988-bde8-a7d2826044b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/IntToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/StringToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/strings/IntToStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/strings/StringToIntTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/CheckPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/ExcelColumnIndexToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/IntToExcelColumnIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/ReplaceAndRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/TelexEncoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/strings/CheckPalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/strings/ExcelColumnIndexToIntTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/strings/IntToExcelColumnIndexTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/strings/ReplaceAndRemoveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/strings/ReverseWordsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/strings/TelexEncodingTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/strings/ConvertBetweenBasesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/strings/ConvertBetweenBasesTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,93 +30,56 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/arrays/RotateMatrixByNinety.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/strings/TelexEncoding.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+            <state relative-caret-position="456">
+              <caret line="37" column="1" selection-start-line="2" selection-start-column="27" selection-end-line="37" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strings/StringToInt.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/strings/CheckPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/strings/StringToIntTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="21" column="74" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strings/IntToString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            <state relative-caret-position="216">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/strings/ConvertBetweenBasesTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/strings/ReverseWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="306">
+              <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/strings/ReverseWordsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/strings/IntToStringTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/strings/CheckPalindromeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+            <state relative-caret-position="267">
+              <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/arrays/AdvancingThroughArrayTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/IntStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="505" column="8" selection-start-line="505" selection-start-column="8" selection-end-line="505" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/IntBinaryOperator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -117,13 +87,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Character.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="135" column="6" selection-start-line="135" selection-start-column="6" selection-end-line="135" selection-end-column="6" />
+            <state relative-caret-position="204">
+              <caret line="9227" column="26" lean-forward="true" selection-start-line="9227" selection-start-column="26" selection-end-line="9227" selection-end-column="26" />
               <folding>
+                <element signature="e#363258#363259#0" expanded="true" />
+                <element signature="e#363305#363306#0" expanded="true" />
                 <element signature="e#397198#397199#0" expanded="true" />
                 <element signature="e#397245#397246#0" expanded="true" />
                 <element signature="e#398817#398818#0" expanded="true" />
                 <element signature="e#398894#398895#0" expanded="true" />
+                <element signature="e#411637#411638#0" expanded="true" />
+                <element signature="e#411706#411707#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/strings/TelexEncodingTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -149,18 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/arrays/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/test/java/arrays/MultiplyTwoArrays.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/arrays/MultiplyTwoArraysTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/arrays/MultiplyTwoArrays.java" />
-        <option value="$PROJECT_DIR$/src/main/java/arrays/AdvancingThroughArray.java" />
-        <option value="$PROJECT_DIR$/src/test/java/arrays/AdvancingThroughArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/arrays/MinimumJumpsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/arrays/MinimumJumps.java" />
-        <option value="$PROJECT_DIR$/src/main/java/arrays/MinimumJumpsRecursive.java" />
-        <option value="$PROJECT_DIR$/src/main/java/arrays/MinimumJumpsDP.java" />
-        <option value="$PROJECT_DIR$/src/test/java/arrays/MinimumJumpsDPTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/arrays/BuyAndSellStocksTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/arrays/LongestSubarray.java" />
         <option value="$PROJECT_DIR$/src/test/java/arrays/KThLargestElementTest.java" />
@@ -199,6 +175,19 @@
         <option value="$PROJECT_DIR$/src/test/java/strings/IntToStringTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/strings/IntToString.java" />
         <option value="$PROJECT_DIR$/src/test/java/strings/ConvertBetweenBasesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/ExcelColumnIndexToInt.java" />
+        <option value="$PROJECT_DIR$/src/test/java/strings/ExcelColumnIndexToIntTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/IntToExcelColumn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/IntToExcelColumnIndex.java" />
+        <option value="$PROJECT_DIR$/src/test/java/strings/IntToExcelColumnIndexTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/ReplaceAndRemove.java" />
+        <option value="$PROJECT_DIR$/src/test/java/strings/ReplaceAndRemoveTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/strings/TelexEncodingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/TelexEncoding.java" />
+        <option value="$PROJECT_DIR$/src/test/java/strings/CheckPalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/CheckPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/test/java/strings/ReverseWordsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/ReverseWords.java" />
       </list>
     </option>
   </component>
@@ -250,6 +239,14 @@
               <item name="InterviewPrep" type="b2602c69:ProjectViewProjectNode" />
               <item name="InterviewPrep" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterviewPrep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterviewPrep" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -258,14 +255,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterviewPrep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterviewPrep" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="InterviewPrep" type="b2602c69:ProjectViewProjectNode" />
@@ -274,10 +263,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="strings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterviewPrep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -304,8 +289,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ConvertBetweenBasesTest.testConvertBetweenBases">
-    <configuration name="ConvertBetweenBasesTest.testConvertBetweenBases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ReverseWordsTest.testReverseWords">
+    <configuration name="CheckPalindromeTest.testIfStringIsPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -314,14 +299,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="strings" />
-      <option name="MAIN_CLASS_NAME" value="strings.ConvertBetweenBasesTest" />
-      <option name="METHOD_NAME" value="testConvertBetweenBases" />
+      <option name="MAIN_CLASS_NAME" value="strings.CheckPalindromeTest" />
+      <option name="METHOD_NAME" value="testIfStringIsPalindrome" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntToStringTest.intToStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IntToExcelColumnIndexTest.convertIntToExcelIndexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -330,46 +315,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="strings" />
-      <option name="MAIN_CLASS_NAME" value="strings.IntToStringTest" />
-      <option name="METHOD_NAME" value="intToStringTest" />
+      <option name="MAIN_CLASS_NAME" value="strings.IntToExcelColumnIndexTest" />
+      <option name="METHOD_NAME" value="convertIntToExcelIndexTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateMatrixByNinetyTest.testRotateMatrixByNinety" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="InterviewPrep" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="arrays" />
-      <option name="MAIN_CLASS_NAME" value="arrays.RotateMatrixByNinetyTest" />
-      <option name="METHOD_NAME" value="testRotateMatrixByNinety" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpiralOrderMatrixTest.testSpiralOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="InterviewPrep" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="arrays" />
-      <option name="MAIN_CLASS_NAME" value="arrays.SpiralOrderMatrixTest" />
-      <option name="METHOD_NAME" value="testSpiralOrder" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringToIntTest.convertStringToInt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReplaceAndRemoveTest.testReplaceAndRemove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -378,8 +331,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="strings" />
-      <option name="MAIN_CLASS_NAME" value="strings.StringToIntTest" />
-      <option name="METHOD_NAME" value="convertStringToInt" />
+      <option name="MAIN_CLASS_NAME" value="strings.ReplaceAndRemoveTest" />
+      <option name="METHOD_NAME" value="testReplaceAndRemove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseWordsTest.testReverseWords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewPrep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="strings" />
+      <option name="MAIN_CLASS_NAME" value="strings.ReverseWordsTest" />
+      <option name="METHOD_NAME" value="testReverseWords" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelexEncodingTest.testTelexEncoding" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewPrep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="strings" />
+      <option name="MAIN_CLASS_NAME" value="strings.TelexEncodingTest" />
+      <option name="METHOD_NAME" value="testTelexEncoding" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -387,11 +372,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ConvertBetweenBasesTest.testConvertBetweenBases" />
-        <item itemvalue="JUnit.IntToStringTest.intToStringTest" />
-        <item itemvalue="JUnit.StringToIntTest.convertStringToInt" />
-        <item itemvalue="JUnit.RotateMatrixByNinetyTest.testRotateMatrixByNinety" />
-        <item itemvalue="JUnit.SpiralOrderMatrixTest.testSpiralOrder" />
+        <item itemvalue="JUnit.ReverseWordsTest.testReverseWords" />
+        <item itemvalue="JUnit.CheckPalindromeTest.testIfStringIsPalindrome" />
+        <item itemvalue="JUnit.TelexEncodingTest.testTelexEncoding" />
+        <item itemvalue="JUnit.ReplaceAndRemoveTest.testReplaceAndRemove" />
+        <item itemvalue="JUnit.IntToExcelColumnIndexTest.convertIntToExcelIndexTest" />
       </list>
     </recent_temporary>
   </component>
@@ -409,42 +394,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringToIntTest_convertStringToInt - 2019.06.14 at 00h 52m 07s.xml">
-      <configuration name="StringToIntTest.convertStringToInt" configurationId="JUnit" />
+    <history-entry file="CheckPalindromeTest_testIfStringIsPalindrome - 2019.06.18 at 01h 36m 38s.xml">
+      <configuration name="CheckPalindromeTest.testIfStringIsPalindrome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntToStringTest_intToStringTest - 2019.06.14 at 01h 00m 54s.xml">
-      <configuration name="IntToStringTest.intToStringTest" configurationId="JUnit" />
+    <history-entry file="CheckPalindromeTest_testIfStringIsPalindrome - 2019.06.18 at 01h 37m 51s.xml">
+      <configuration name="CheckPalindromeTest.testIfStringIsPalindrome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntToStringTest_intToStringTest - 2019.06.14 at 01h 01m 04s.xml">
-      <configuration name="IntToStringTest.intToStringTest" configurationId="JUnit" />
+    <history-entry file="CheckPalindromeTest_testIfStringIsPalindrome - 2019.06.18 at 01h 39m 02s.xml">
+      <configuration name="CheckPalindromeTest.testIfStringIsPalindrome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntToStringTest_intToStringTest - 2019.06.14 at 01h 02m 40s.xml">
-      <configuration name="IntToStringTest.intToStringTest" configurationId="JUnit" />
+    <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.18 at 02h 21m 52s.xml">
+      <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntToStringTest_intToStringTest - 2019.06.14 at 01h 03m 16s.xml">
-      <configuration name="IntToStringTest.intToStringTest" configurationId="JUnit" />
+    <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.18 at 02h 22m 58s.xml">
+      <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntToStringTest_intToStringTest - 2019.06.14 at 01h 05m 11s.xml">
-      <configuration name="IntToStringTest.intToStringTest" configurationId="JUnit" />
+    <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.18 at 02h 23m 10s.xml">
+      <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntToStringTest_intToStringTest - 2019.06.14 at 01h 05m 24s.xml">
-      <configuration name="IntToStringTest.intToStringTest" configurationId="JUnit" />
+    <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.18 at 02h 33m 26s.xml">
+      <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntToStringTest_intToStringTest - 2019.06.14 at 01h 05m 33s.xml">
-      <configuration name="IntToStringTest.intToStringTest" configurationId="JUnit" />
+    <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.18 at 02h 39m 14s.xml">
+      <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntToStringTest_intToStringTest - 2019.06.14 at 01h 05m 45s.xml">
-      <configuration name="IntToStringTest.intToStringTest" configurationId="JUnit" />
+    <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.18 at 02h 43m 24s.xml">
+      <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntToStringTest_intToStringTest - 2019.06.14 at 01h 06m 12s.xml">
-      <configuration name="IntToStringTest.intToStringTest" configurationId="JUnit" />
+    <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.18 at 02h 54m 57s.xml">
+      <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23319027" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23319027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -454,7 +439,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32891566" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
@@ -494,144 +479,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/jdk.scripting.nashorn/jdk/nashorn/internal/runtime/arrays/ArrayLikeIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-611">
-          <caret line="216" column="30" lean-forward="true" selection-start-line="216" selection-start-column="30" selection-end-line="216" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="165" column="11" selection-start-line="165" selection-start-column="11" selection-end-line="165" selection-end-column="11" />
-          <folding>
-            <element signature="e#6336#6337#0" expanded="true" />
-            <element signature="e#6404#6405#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/arrays/LongestSubarrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/ListPrimeNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/arrays/ListPrimeNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/arrays/PermutationOfArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/arrays/FindKthPermutationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/SampleOfflineData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ListIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="59" column="44" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/SampleOnlineData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/BaseStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/arrays/SampleOnlineDataTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/arrays/RandomPermutationOfArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -883,19 +730,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="135" column="6" selection-start-line="135" selection-start-column="6" selection-end-line="135" selection-end-column="6" />
-          <folding>
-            <element signature="e#397198#397199#0" expanded="true" />
-            <element signature="e#397245#397246#0" expanded="true" />
-            <element signature="e#398817#398818#0" expanded="true" />
-            <element signature="e#398894#398895#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/arrays/RotateMatrixByNinety.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -953,6 +787,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/strings/ConvertBetweenBasesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strings/ExcelColumnIndexToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/strings/ExcelColumnIndexToIntTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/strings/IntToString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -960,13 +823,136 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/strings/ConvertBetweenBasesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/strings/IntToExcelColumnIndex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strings/IntToExcelColumnIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="108" column="24" lean-forward="true" selection-start-line="108" selection-start-column="24" selection-end-line="108" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/strings/IntToExcelColumnIndexTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="338" column="68" selection-start-line="338" selection-start-column="58" selection-end-line="338" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/strings/ReplaceAndRemoveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="29" column="5" selection-start-line="15" selection-start-column="39" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strings/ReplaceAndRemove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/strings/TelexEncodingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strings/TelexEncoding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="37" column="1" selection-start-line="2" selection-start-column="27" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="9227" column="26" lean-forward="true" selection-start-line="9227" selection-start-column="26" selection-end-line="9227" selection-end-column="26" />
+          <folding>
+            <element signature="e#363258#363259#0" expanded="true" />
+            <element signature="e#363305#363306#0" expanded="true" />
+            <element signature="e#397198#397199#0" expanded="true" />
+            <element signature="e#397245#397246#0" expanded="true" />
+            <element signature="e#398817#398818#0" expanded="true" />
+            <element signature="e#398894#398895#0" expanded="true" />
+            <element signature="e#411637#411638#0" expanded="true" />
+            <element signature="e#411706#411707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/strings/CheckPalindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strings/CheckPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/strings/ReverseWordsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strings/ReverseWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
         </state>
       </provider>
     </entry>
