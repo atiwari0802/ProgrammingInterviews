@@ -5,28 +5,23 @@ public class ReverseWords {
     public void reverseWords(char[] input) {
 
         int length = input.length;
-
         reverse(input, 0, length - 1);
 
-        int startingIndex = 0, endingIndex = 0;
+        int startIndex = 0, endIndex = 0;
 
-        while (startingIndex < length) {
-            while (startingIndex < endingIndex || (startingIndex < length
-                    && input[startingIndex] == ' '))
-            {
-                startingIndex++;
+        while (startIndex < length) {
+            while ((startIndex < length && input[startIndex] == ' ')
+                    || startIndex < endIndex) {
+                startIndex++;
             }
-            while (endingIndex < startingIndex || (endingIndex < length
-                    && input[endingIndex] != ' ')) {
-                endingIndex++;
+            while ((endIndex < length && input[endIndex] != ' ')
+                        || endIndex < startIndex) {
+                endIndex++;
             }
-
-            reverse(input, startingIndex, endingIndex - 1);
+            reverse(input, startIndex, endIndex - 1);
         }
 
-        for (int i = 0; i < length; i++ ) {
-            System.out.print(input[i]);
-        }
+        System.out.print(new String(input));
     }
 
     private void reverse(char[] array, int startIndex, int endIndex) {

@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25dc9be1-4e4c-4988-bde8-a7d2826044b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/CheckPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/ExcelColumnIndexToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/IntToExcelColumnIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/ReplaceAndRemove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/ReverseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/TelexEncoding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/strings/CheckPalindromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/strings/ExcelColumnIndexToIntTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/strings/IntToExcelColumnIndexTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/strings/ReplaceAndRemoveTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/strings/ReverseWordsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/strings/TelexEncodingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/ComputeAllMnemonics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/strings/ComputeAllMnemonicsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/ReverseWords.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,11 +38,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/strings/ReverseWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+            <state relative-caret-position="227">
+              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/strings/ComputeAllMnemonics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/strings/ComputeAllMnemonicsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,8 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/arrays/BuyAndSellStocksTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/arrays/LongestSubarray.java" />
         <option value="$PROJECT_DIR$/src/test/java/arrays/KThLargestElementTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/arrays/KThLargestElement.java" />
         <option value="$PROJECT_DIR$/src/test/java/arrays/MedianOfAnArrayTest.java" />
@@ -188,6 +201,8 @@
         <option value="$PROJECT_DIR$/src/main/java/strings/CheckPalindrome.java" />
         <option value="$PROJECT_DIR$/src/test/java/strings/ReverseWordsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/strings/ReverseWords.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/ComputeAllMnemonics.java" />
+        <option value="$PROJECT_DIR$/src/test/java/strings/ComputeAllMnemonicsTest.java" />
       </list>
     </option>
   </component>
@@ -289,7 +304,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReverseWordsTest.testReverseWords">
+  <component name="RunManager" selected="JUnit.ComputeAllMnemonicsTest.testComputeAllMnemonics">
     <configuration name="CheckPalindromeTest.testIfStringIsPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewPrep" />
       <extension name="coverage">
@@ -306,7 +321,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntToExcelColumnIndexTest.convertIntToExcelIndexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ComputeAllMnemonicsTest.testComputeAllMnemonics" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -315,8 +330,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="strings" />
-      <option name="MAIN_CLASS_NAME" value="strings.IntToExcelColumnIndexTest" />
-      <option name="METHOD_NAME" value="convertIntToExcelIndexTest" />
+      <option name="MAIN_CLASS_NAME" value="strings.ComputeAllMnemonicsTest" />
+      <option name="METHOD_NAME" value="testComputeAllMnemonics" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -372,11 +387,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ComputeAllMnemonicsTest.testComputeAllMnemonics" />
         <item itemvalue="JUnit.ReverseWordsTest.testReverseWords" />
         <item itemvalue="JUnit.CheckPalindromeTest.testIfStringIsPalindrome" />
         <item itemvalue="JUnit.TelexEncodingTest.testTelexEncoding" />
         <item itemvalue="JUnit.ReplaceAndRemoveTest.testReplaceAndRemove" />
-        <item itemvalue="JUnit.IntToExcelColumnIndexTest.convertIntToExcelIndexTest" />
       </list>
     </recent_temporary>
   </component>
@@ -394,27 +409,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckPalindromeTest_testIfStringIsPalindrome - 2019.06.18 at 01h 36m 38s.xml">
-      <configuration name="CheckPalindromeTest.testIfStringIsPalindrome" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckPalindromeTest_testIfStringIsPalindrome - 2019.06.18 at 01h 37m 51s.xml">
-      <configuration name="CheckPalindromeTest.testIfStringIsPalindrome" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckPalindromeTest_testIfStringIsPalindrome - 2019.06.18 at 01h 39m 02s.xml">
-      <configuration name="CheckPalindromeTest.testIfStringIsPalindrome" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.18 at 02h 21m 52s.xml">
-      <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.18 at 02h 22m 58s.xml">
-      <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.18 at 02h 23m 10s.xml">
-      <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.18 at 02h 33m 26s.xml">
-      <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.18 at 02h 39m 14s.xml">
       <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
     </history-entry>
@@ -423,6 +417,27 @@
     </history-entry>
     <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.18 at 02h 54m 57s.xml">
       <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.18 at 02h 56m 30s.xml">
+      <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.19 at 02h 02m 18s.xml">
+      <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.19 at 02h 03m 25s.xml">
+      <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.19 at 02h 03m 59s.xml">
+      <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReverseWordsTest_testReverseWords - 2019.06.19 at 02h 07m 54s.xml">
+      <configuration name="ReverseWordsTest.testReverseWords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ComputeAllMnemonicsTest_testComputeAllMnemonics - 2019.06.19 at 04h 03m 36s.xml">
+      <configuration name="ComputeAllMnemonicsTest.testComputeAllMnemonics" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ComputeAllMnemonicsTest_testComputeAllMnemonics - 2019.06.19 at 04h 12m 26s.xml">
+      <configuration name="ComputeAllMnemonicsTest.testComputeAllMnemonics" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -479,25 +494,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/arrays/RandomPermutationOfArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="505" column="13" lean-forward="true" selection-start-line="505" selection-start-column="13" selection-end-line="505" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/DualPivotQuicksort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1917">
@@ -951,8 +947,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/strings/ReverseWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        <state relative-caret-position="227">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strings/ComputeAllMnemonics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/strings/ComputeAllMnemonicsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
