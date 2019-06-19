@@ -14,11 +14,11 @@ public class SampleOnlineData {
             sampledData.add(stream.next());
         }
 
-        int dataParsedSoFar = k;
+        int dataProcessedSoFar = k;
         Random random = new Random();
 
         while (stream.hasNext()) {
-            dataParsedSoFar++;
+            dataProcessedSoFar++;
             int data = stream.next();
             int newIndex = random.nextInt(dataParsedSoFar);
 
