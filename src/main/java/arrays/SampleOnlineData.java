@@ -20,7 +20,7 @@ public class SampleOnlineData {
         while (stream.hasNext()) {
             dataProcessedSoFar++;
             int data = stream.next();
-            int newIndex = random.nextInt(dataParsedSoFar);
+            int newIndex = random.nextInt(dataProcessedSoFar);
 
             if (newIndex < k) {
                 sampledData.set(newIndex, data);
