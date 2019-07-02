@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25dc9be1-4e4c-4988-bde8-a7d2826044b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/RomanToDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/ValidIPCombinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/ValidityOfRomanLiteral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/strings/RomanToDecimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/strings/ValidIPCombinationsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/strings/ValidityOfRomanLiteralTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/RunLengthEncoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/WriteStringSinusoidally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/strings/RunLengthEncodingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/strings/WriteStringSinusoidallyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,35 +21,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/strings/RunLengthEncoding.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="84" column="19" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strings/ValidIPCombinations.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/strings/RunLengthEncodingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="126">
+              <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/strings/ValidIPCombinationsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-643">
-              <caret line="1834" column="18" selection-start-line="1834" selection-start-column="18" selection-end-line="1834" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -77,11 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/arrays/NextLargerPermutationTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/arrays/NextLargerPermutation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/arrays/FindKthPermutation.java" />
-        <option value="$PROJECT_DIR$/src/test/java/arrays/FindKthPermutationTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/arrays/SampleOfflineData.java" />
         <option value="$PROJECT_DIR$/src/test/java/arrays/SampleOfflineDataTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/arrays/PermutateOfArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/arrays/SampleOnlineData.java" />
@@ -128,6 +119,11 @@
         <option value="$PROJECT_DIR$/src/main/java/strings/ValidityOfRomanLiteral.java" />
         <option value="$PROJECT_DIR$/src/main/java/strings/ValidIPCombinations.java" />
         <option value="$PROJECT_DIR$/src/test/java/strings/ValidIPCombinationsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/WriteStringSinosoidally.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/WriteStringSinusoidally.java" />
+        <option value="$PROJECT_DIR$/src/test/java/strings/WriteStringSinusoidallyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/RunLengthEncoding.java" />
+        <option value="$PROJECT_DIR$/src/test/java/strings/RunLengthEncodingTest.java" />
       </list>
     </option>
   </component>
@@ -233,8 +229,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ValidIPCombinationsTest.testValidIPCombinations">
-    <configuration name="LookAndSayProblemTest.testLookAndSay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RunLengthEncodingTest.testDecodingString">
+    <configuration name="RunLengthEncodingTest.testDecodingString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -243,14 +239,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="strings" />
-      <option name="MAIN_CLASS_NAME" value="strings.LookAndSayProblemTest" />
-      <option name="METHOD_NAME" value="testLookAndSay" />
+      <option name="MAIN_CLASS_NAME" value="strings.RunLengthEncodingTest" />
+      <option name="METHOD_NAME" value="testDecodingString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToDecimalTest.testRomanToDecimal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RunLengthEncodingTest.testEncodingString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -259,8 +255,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="strings" />
-      <option name="MAIN_CLASS_NAME" value="strings.RomanToDecimalTest" />
-      <option name="METHOD_NAME" value="testRomanToDecimal" />
+      <option name="MAIN_CLASS_NAME" value="strings.RunLengthEncodingTest" />
+      <option name="METHOD_NAME" value="testEncodingString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -298,7 +294,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidityOfRomanLiteralTest.testRomanLiteralValidity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WriteStringSinusoidallyTest.testWritingString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -307,8 +303,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="strings" />
-      <option name="MAIN_CLASS_NAME" value="strings.ValidityOfRomanLiteralTest" />
-      <option name="METHOD_NAME" value="testRomanLiteralValidity" />
+      <option name="MAIN_CLASS_NAME" value="strings.WriteStringSinusoidallyTest" />
+      <option name="METHOD_NAME" value="testWritingString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -316,11 +312,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RunLengthEncodingTest.testDecodingString" />
+        <item itemvalue="JUnit.RunLengthEncodingTest.testEncodingString" />
+        <item itemvalue="JUnit.WriteStringSinusoidallyTest.testWritingString" />
         <item itemvalue="JUnit.ValidIPCombinationsTest.testValidIPCombinations" />
         <item itemvalue="JUnit.ValidityOfRomanLiteralTest.testInvalidRomanLiteralValidity" />
-        <item itemvalue="JUnit.ValidityOfRomanLiteralTest.testRomanLiteralValidity" />
-        <item itemvalue="JUnit.RomanToDecimalTest.testRomanToDecimal" />
-        <item itemvalue="JUnit.LookAndSayProblemTest.testLookAndSay" />
       </list>
     </recent_temporary>
   </component>
@@ -338,18 +334,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RomanToDecimalTest_testRomanToDecimal - 2019.06.26 at 00h 55m 39s.xml">
-      <configuration name="RomanToDecimalTest.testRomanToDecimal" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ValidityOfRomanLiteralTest_testRomanLiteralValidity - 2019.06.26 at 01h 27m 23s.xml">
-      <configuration name="ValidityOfRomanLiteralTest.testRomanLiteralValidity" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ValidityOfRomanLiteralTest_testRomanLiteralValidity - 2019.06.26 at 01h 27m 47s.xml">
-      <configuration name="ValidityOfRomanLiteralTest.testRomanLiteralValidity" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ValidityOfRomanLiteralTest_testInvalidRomanLiteralValidity - 2019.06.26 at 01h 28m 29s.xml">
-      <configuration name="ValidityOfRomanLiteralTest.testInvalidRomanLiteralValidity" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ValidityOfRomanLiteralTest_testRomanLiteralValidity - 2019.06.26 at 01h 30m 08s.xml">
       <configuration name="ValidityOfRomanLiteralTest.testRomanLiteralValidity" configurationId="JUnit" />
     </history-entry>
@@ -368,9 +352,22 @@
     <history-entry file="ValidIPCombinationsTest_testValidIPCombinations - 2019.06.27 at 01h 29m 14s.xml">
       <configuration name="ValidIPCombinationsTest.testValidIPCombinations" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="WriteStringSinusoidallyTest_testWritingString - 2019.06.30 at 02h 43m 14s.xml">
+      <configuration name="WriteStringSinusoidallyTest.testWritingString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunLengthEncodingTest_testDecodingString - 2019.07.02 at 01h 23m 45s.xml">
+      <configuration name="RunLengthEncodingTest.testDecodingString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunLengthEncodingTest_testEncodingString - 2019.07.02 at 01h 37m 44s.xml">
+      <configuration name="RunLengthEncodingTest.testEncodingString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunLengthEncodingTest_testDecodingString - 2019.07.02 at 01h 38m 08s.xml">
+      <configuration name="RunLengthEncodingTest.testDecodingString" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2074392" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -422,56 +419,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/SudokuValidity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/arrays/SudokuValidityTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1149">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/FindKthPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/GenerateNonUniformRandomNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="887">
-          <caret line="34" column="5" selection-start-line="9" selection-start-column="97" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/SpiralOrderMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="23" column="5" selection-start-line="7" selection-start-column="73" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/arrays/SpiralOrderMatrixTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -630,13 +577,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/strings/IntToExcelColumnIndex.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/strings/IntToExcelColumnIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -853,7 +793,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/strings/ValidIPCombinationsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
+        <state relative-caret-position="324">
           <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -863,10 +803,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/strings/ValidIPCombinations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="216">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/strings/WriteStringSinusoidallyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strings/IntToExcelColumnIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strings/WriteStringSinusoidally.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="84" column="19" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strings/RunLengthEncoding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/strings/RunLengthEncodingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
           </folding>
         </state>
       </provider>
