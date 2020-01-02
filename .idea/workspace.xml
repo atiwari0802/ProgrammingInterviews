@@ -1,86 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25dc9be1-4e4c-4988-bde8-a7d2826044b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary/trees/BreadthFirstSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary/trees/ConstructTreeFromTraversals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary/trees/ExteriorNodesOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary/trees/HasPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary/trees/InOrderTraversalWithoutRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary/trees/InorderSuccessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary/trees/KthNodeBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary/trees/LevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary/trees/LowestCommonAncestorBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary/trees/MaximumHeightOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary/trees/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary/trees/PreOrderTraversalWithoutRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary/trees/SumOfRootToLeaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary/trees/SymmetricTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary/trees/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary/trees/TreeToLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/heaps/AlmostSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/heaps/CyclicallySortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/heaps/KClosestStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/heaps/MergeSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/heaps/RunningMedian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/heaps/TopKElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked/lists/AddListBasedIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked/lists/CheckIfPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked/lists/CylicRightShift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked/lists/DeleteKThNodeFromLast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked/lists/DeleteNodeFromLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked/lists/DetectCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked/lists/EvenOddMerge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked/lists/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked/lists/ListPivoting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked/lists/MergeTwoSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked/lists/OverlappingLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked/lists/RemoveDuplicatesFromSortedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linked/lists/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stacks/BuildingsWithSunsetView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stacks/NormalizingFilePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stacks/ReversePolishNotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stacks/WellFormedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strings/RabinKarpAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binary/tree/BreadthFirstSearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binary/tree/ConstructTreeFromTraversalsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binary/tree/ExteriorNodesOfBinaryTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binary/tree/HasPathSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binary/tree/InOrderTraversalWithoutRecursionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binary/tree/KthNodeBinaryTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binary/tree/LcaBinaryTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binary/tree/LevelOrderTraversalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binary/tree/MaximumHeightOfBinaryTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binary/tree/PreOrderTraversalWithoutRecursionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binary/tree/SumOfRootToLeafTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binary/tree/SymmetricTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binary/tree/TreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binary/tree/TreeToLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/heap/AlmostSortedArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/heap/CyclicallySortedArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/heap/KClosestStarsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/heap/MergeSortedArraysTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/heap/RunningMedianTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/heap/TopKElementsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/linked/list/AddListBasedIntegerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/linked/list/CheckIfPalindromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/linked/list/CylicRightShiftTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/linked/list/DeleteKThNodeFromLastTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/linked/list/DeleteNodeFromLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/linked/list/DetectCycleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/linked/list/EvenOddMergeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/linked/list/ListPivotingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/linked/list/MergeTwoSortedListsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/linked/list/OverlappingListsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/linked/list/RemoveDuplicatesFromSortedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/linked/list/ReverseLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stacks/BuildingsWithSunsetViewTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stacks/NormalizingFilePathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stacks/ReversePolishNotationsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stacks/WellFormedStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/strings/RabinKarpAlgorithmTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="25dc9be1-4e4c-4988-bde8-a7d2826044b2" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -148,20 +69,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/heaps/RunningMedian.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="390">
+              <caret line="44" column="5" selection-start-line="35" selection-start-column="100" selection-end-line="44" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/heap/RunningMedianTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+            <state relative-caret-position="282">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#210#211#0" expanded="true" />
@@ -1051,22 +972,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/heaps/RunningMedian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/heap/RunningMedianTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        <state relative-caret-position="282">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#210#211#0" expanded="true" />
             <element signature="e#260#261#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/heaps/RunningMedian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="44" column="5" selection-start-line="35" selection-start-column="100" selection-end-line="44" selection-end-column="5" />
         </state>
       </provider>
     </entry>
