@@ -18,6 +18,4 @@ public class PalindromeFeasibility {
         }
         return characters.size() <= 1;
     }
-
-
 }
