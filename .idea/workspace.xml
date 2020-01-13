@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25dc9be1-4e4c-4988-bde8-a7d2826044b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hashes/PalindromeFeasibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hashes/PalindromeFeasibilityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hashes/SequentialMinimumWindowSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hashes/SequentialMinimumWindowSubarrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,90 +20,101 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/heaps/AlmostSortedArray.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hashes/PalindromeFeasibilityTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="30" />
+            <state relative-caret-position="540">
+              <caret line="20" column="1" selection-start-line="19" selection-start-column="47" selection-end-line="20" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/heap/AlmostSortedArrayTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/heaps/KClosestStars.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/heap/KClosestStarsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="26" column="88" selection-start-line="26" selection-start-column="88" selection-end-line="26" selection-end-column="88" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/heaps/RunningMedian.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="44" column="5" selection-start-line="35" selection-start-column="100" selection-end-line="44" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hashes/PalindromeFeasibility.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="34" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/hashes/PalindromeFeasibilityTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hashes/SequentialMinimumWindowSubarray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            <state relative-caret-position="348">
+              <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hashes/MinimumWindowSubarrayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="23" selection-start-line="21" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hashes/SequentialMinimumWindowSubarrayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hashes/AnonymousLetterConstruction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hashes/AnonymousLetterConstructionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/IntStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1998">
+              <caret line="116" column="35" selection-start-line="116" selection-start-column="35" selection-end-line="116" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/IntFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="73521">
+              <caret line="2819" column="21" selection-start-line="2819" selection-start-column="21" selection-end-line="2819" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -111,31 +122,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/heap/RunningMedianTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
+            <state relative-caret-position="405">
               <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Comparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="486" column="57" selection-start-line="486" selection-start-column="57" selection-end-line="486" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/ToIntFunction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -165,12 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/stacks/WellFormedStringTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/binary/tree/TreeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/binary/trees/BreadthFirstSearch.java" />
-        <option value="$PROJECT_DIR$/src/test/java/binary/tree/BreadthFirstSearchTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/binary/trees/SymmetricTrees.java" />
-        <option value="$PROJECT_DIR$/src/main/java/binary/trees/SymmetricTree.java" />
         <option value="$PROJECT_DIR$/src/test/java/binary/tree/SymmetricTreeTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/binary/tree/LevelOrderTraversalTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/binary/trees/MaximumHeightOfBinaryTree.java" />
@@ -215,7 +200,13 @@
         <option value="$PROJECT_DIR$/src/main/java/heaps/RunningMedian.java" />
         <option value="$PROJECT_DIR$/src/test/java/heap/RunningMedianTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/hashes/PalindromeFeasibility.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hashes/AnonymousLetterConstructionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hashes/AnonymousLetterConstruction.java" />
         <option value="$PROJECT_DIR$/src/test/java/hashes/PalindromeFeasibilityTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hashes/SequentialMinimumWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hashes/SequentialMinimumWindowSubaary.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hashes/SequentialMinimumWindowSubarrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hashes/SequentialMinimumWindowSubarray.java" />
       </list>
     </option>
   </component>
@@ -236,6 +227,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -298,8 +291,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -321,50 +312,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PalindromeFeasibilityTest.testPalindromeCondition">
-    <configuration name="AlmostSortedArrayTest.testAlmostSortedArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SequentialMinimumWindowSubarrayTest.testMinimumWindow">
+    <configuration name="AnonymousLetterConstructionTest.testIfLetterCanBeConstructed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heaps.*" />
+          <option name="PATTERN" value="hashes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="heap" />
-      <option name="MAIN_CLASS_NAME" value="heap.AlmostSortedArrayTest" />
-      <option name="METHOD_NAME" value="testAlmostSortedArray" />
+      <option name="PACKAGE_NAME" value="hashes" />
+      <option name="MAIN_CLASS_NAME" value="hashes.AnonymousLetterConstructionTest" />
+      <option name="METHOD_NAME" value="testIfLetterCanBeConstructed" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CyclicallySortedArrayTest.testMergeCyclicallySortedArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PalindromeFeasibilityTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InterviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heaps.*" />
+          <option name="PATTERN" value="hashes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="heap" />
-      <option name="MAIN_CLASS_NAME" value="heap.CyclicallySortedArrayTest" />
-      <option name="METHOD_NAME" value="testMergeCyclicallySortedArray" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KClosestStarsTest.testKClosestStar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="InterviewPrep" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="heaps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="heap" />
-      <option name="MAIN_CLASS_NAME" value="heap.KClosestStarsTest" />
-      <option name="METHOD_NAME" value="testKClosestStar" />
+      <option name="PACKAGE_NAME" value="hashes" />
+      <option name="MAIN_CLASS_NAME" value="hashes.PalindromeFeasibilityTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -402,13 +377,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SequentialMinimumWindowSubarrayTest.testMinimumWindow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewPrep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hashes" />
+      <option name="MAIN_CLASS_NAME" value="hashes.SequentialMinimumWindowSubarrayTest" />
+      <option name="METHOD_NAME" value="testMinimumWindow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SequentialMinimumWindowSubarrayTest.testMinimumWindow" />
+        <item itemvalue="JUnit.PalindromeFeasibilityTest.test" />
+        <item itemvalue="JUnit.AnonymousLetterConstructionTest.testIfLetterCanBeConstructed" />
         <item itemvalue="JUnit.PalindromeFeasibilityTest.testPalindromeCondition" />
         <item itemvalue="JUnit.RunningMedianTest.testRunningMedian" />
-        <item itemvalue="JUnit.KClosestStarsTest.testKClosestStar" />
-        <item itemvalue="JUnit.AlmostSortedArrayTest.testAlmostSortedArray" />
-        <item itemvalue="JUnit.CyclicallySortedArrayTest.testMergeCyclicallySortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -426,42 +417,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TopKElementsTest_testGetTopKElements - 2019.12.30 at 04h 23m 50s.xml">
-      <configuration name="TopKElementsTest.testGetTopKElements" configurationId="JUnit" />
+    <history-entry file="PalindromeFeasibilityTest_testPalindromeCondition - 2020.01.02 at 06h 24m 54s.xml">
+      <configuration name="PalindromeFeasibilityTest.testPalindromeCondition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TopKElementsTest_testSortingOrder - 2019.12.30 at 04h 32m 09s.xml">
-      <configuration name="TopKElementsTest.testSortingOrder" configurationId="JUnit" />
+    <history-entry file="AnonymousLetterConstructionTest_testIfLetterCanBeConstructed - 2020.01.03 at 01h 56m 02s.xml">
+      <configuration name="AnonymousLetterConstructionTest.testIfLetterCanBeConstructed" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TopKElementsTest_testSortingOrder - 2019.12.30 at 04h 32m 27s.xml">
-      <configuration name="TopKElementsTest.testSortingOrder" configurationId="JUnit" />
+    <history-entry file="AnonymousLetterConstructionTest_testIfLetterCanBeConstructed - 2020.01.03 at 01h 57m 10s.xml">
+      <configuration name="AnonymousLetterConstructionTest.testIfLetterCanBeConstructed" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MergeSortedArraysTest_testMergeSortedArrays - 2019.12.30 at 07h 13m 37s.xml">
-      <configuration name="MergeSortedArraysTest.testMergeSortedArrays" configurationId="JUnit" />
+    <history-entry file="AnonymousLetterConstructionTest_testIfLetterCanBeConstructed - 2020.01.03 at 01h 58m 35s.xml">
+      <configuration name="AnonymousLetterConstructionTest.testIfLetterCanBeConstructed" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CyclicallySortedArrayTest_testMergeCyclicallySortedArray - 2019.12.30 at 08h 24m 23s.xml">
-      <configuration name="CyclicallySortedArrayTest.testMergeCyclicallySortedArray" configurationId="JUnit" />
+    <history-entry file="AnonymousLetterConstructionTest_testIfLetterCanBeConstructed - 2020.01.03 at 02h 00m 04s.xml">
+      <configuration name="AnonymousLetterConstructionTest.testIfLetterCanBeConstructed" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CyclicallySortedArrayTest_testMergeCyclicallySortedArray - 2019.12.30 at 08h 24m 39s.xml">
-      <configuration name="CyclicallySortedArrayTest.testMergeCyclicallySortedArray" configurationId="JUnit" />
+    <history-entry file="PalindromeFeasibilityTest_test - 2020.01.08 at 06h 08m 41s.xml">
+      <configuration name="PalindromeFeasibilityTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AlmostSortedArrayTest_testAlmostSortedArray - 2020.01.01 at 03h 05m 08s.xml">
-      <configuration name="AlmostSortedArrayTest.testAlmostSortedArray" configurationId="JUnit" />
+    <history-entry file="PalindromeFeasibilityTest_test - 2020.01.08 at 06h 09m 56s.xml">
+      <configuration name="PalindromeFeasibilityTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KClosestStarsTest_testKClosestStar - 2020.01.01 at 03h 39m 55s.xml">
-      <configuration name="KClosestStarsTest.testKClosestStar" configurationId="JUnit" />
+    <history-entry file="SequentialMinimumWindowSubarrayTest_testMinimumWindow - 2020.01.12 at 11h 51m 43s.xml">
+      <configuration name="SequentialMinimumWindowSubarrayTest.testMinimumWindow" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KClosestStarsTest_testKClosestStar - 2020.01.01 at 03h 40m 55s.xml">
-      <configuration name="KClosestStarsTest.testKClosestStar" configurationId="JUnit" />
+    <history-entry file="SequentialMinimumWindowSubarrayTest_testMinimumWindow - 2020.01.12 at 11h 53m 21s.xml">
+      <configuration name="SequentialMinimumWindowSubarrayTest.testMinimumWindow" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunningMedianTest_testRunningMedian - 2020.01.01 at 07h 06m 49s.xml">
-      <configuration name="RunningMedianTest.testRunningMedian" configurationId="JUnit" />
+    <history-entry file="SequentialMinimumWindowSubarrayTest_testMinimumWindow - 2020.01.12 at 11h 59m 04s.xml">
+      <configuration name="SequentialMinimumWindowSubarrayTest.testMinimumWindow" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21316166" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2160229" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -471,7 +462,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32891566" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
@@ -525,6 +516,12 @@
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hashes/AnonymousLetterConstruction.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -558,78 +555,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/arrays/FindKthPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="28" column="5" selection-start-line="7" selection-start-column="78" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/binary/trees/SumOfRootToLeaf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-          <folding>
-            <element signature="e#95#96#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/binary/tree/HasPathSumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="26" column="72" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/strings/RabinKarpAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="32" column="5" selection-start-line="6" selection-start-column="58" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/binary/trees/LevelOrderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="32" column="13" selection-start-line="15" selection-start-column="48" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/binary/trees/PreOrderTraversalWithoutRecursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/binary/tree/PreOrderTraversalWithoutRecursionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="32" column="70" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/binary/trees/BreadthFirstSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/binary/trees/LowestCommonAncestorBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -704,13 +629,6 @@
             <element signature="e#2295#2296#0" expanded="true" />
             <element signature="e#2322#2323#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/IntStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="828" column="20" selection-start-line="828" selection-start-column="20" selection-end-line="828" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -792,13 +710,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/heaps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/heaps.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/arrays/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -986,29 +898,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/heap/RunningMedianTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/heaps/RunningMedian.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="1188">
           <caret line="44" column="5" selection-start-line="35" selection-start-column="100" selection-end-line="44" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hashes/PalindromeFeasibility.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="108">
           <caret line="5" column="34" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8559">
+          <caret line="345" column="11" selection-start-line="345" selection-start-column="11" selection-end-line="345" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hashes/AnonymousLetterConstruction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hashes/AnonymousLetterConstructionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1998">
+          <caret line="116" column="35" selection-start-line="116" selection-start-column="35" selection-end-line="116" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/IntFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73521">
+          <caret line="2819" column="21" selection-start-line="2819" selection-start-column="21" selection-end-line="2819" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/heap/RunningMedianTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1017,12 +975,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/hashes/PalindromeFeasibilityTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        <state relative-caret-position="540">
+          <caret line="20" column="1" selection-start-line="19" selection-start-column="47" selection-end-line="20" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hashes/MinimumWindowSubarrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="23" selection-start-line="21" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hashes/SequentialMinimumWindowSubarrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hashes/SequentialMinimumWindowSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
