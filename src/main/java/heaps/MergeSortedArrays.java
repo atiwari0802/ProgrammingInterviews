@@ -15,7 +15,7 @@ public class MergeSortedArrays {
             iterators.add(sortedArray.iterator());
         }
 
-        PriorityQueue<ArrayEntry> minHeap = new PriorityQueue<>((a, b) -> {
+        PriorityQueue<ArrayEntry> minHeap = new PriorityQueue<>(sortedArrays.size(), (a, b) -> {
             return Integer.compare(a.value, b.value);
         });
 

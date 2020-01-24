@@ -21,7 +21,5 @@ public class DutchFlagProblemTest {
         List<Integer> output = dutchFlagProblem.threeWaySort(input);
 
         output.forEach(i -> System.out.printf(" %d ", i));
-
-
     }
 }
