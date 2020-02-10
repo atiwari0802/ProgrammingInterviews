@@ -9,19 +9,18 @@ public class AddingInterval {
         int i = 0;
         List<Interval> result = new ArrayList<>();
 
-        while (i < intervals.size() && newInterval.left > intervals.get(i).right) {
+        while (i < intervals.size() && intervals.get(i).right < newInterval.left) {
             result.add(intervals.get(i));
             i++;
         }
-
-        while (i < intervals.size() && newInterval.right >= intervals.get(i).left) {
-            newInterval = new Interval(Math.min(newInterval.left, intervals.get(i).left),
-                    Math.max(newInterval.right, intervals.get(i).right));
+        while (i < intervals.size() && intervals.get(i).left <= newInterval.right) {
+            newInterval = new Interval(Math.min(intervals.get(i).left, newInterval.left),
+                    Math.max(intervals.get(i).right, newInterval.right));
             i++;
         }
         result.add(newInterval);
 
-        if (i != intervals.size()) {
+        if (i < intervals.size()) {
             result.addAll(intervals.subList(i, intervals.size()));
         }
 
