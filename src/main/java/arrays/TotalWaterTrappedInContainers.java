@@ -71,6 +71,29 @@ public class TotalWaterTrappedInContainers {
         return totalWater;
     }
 
+    public int totalWaterTrappedSlidingWindow(List<Integer> heights) {
+        int leftPointer = 0;
+        int rightPointer = heights.size() - 1;
+        int leftMax = Integer.MIN_VALUE;
+        int rightMax = Integer.MIN_VALUE;
+        int totalWater = 0;
 
+        while (leftPointer < rightPointer) {
+            if (heights.get(leftPointer) <= heights.get(rightPointer)) {
+                if (heights.get(leftPointer) > leftMax) {
+                    leftMax = heights.get(leftPointer);
+                } else {
+                    totalWater += leftMax - heights.get(leftPointer++);
+                }
+            } else {
+                if (heights.get(rightPointer) > rightMax) {
+                    rightMax = heights.get(rightPointer);
+                } else {
+                    totalWater += rightMax - heights.get(rightPointer--);
+                }
+            }
+        }
+        return totalWater;
+    }
 
 }
