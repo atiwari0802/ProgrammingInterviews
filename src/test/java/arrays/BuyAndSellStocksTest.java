@@ -4,7 +4,6 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import java.util.Arrays;
 import java.util.List;
 
 public class BuyAndSellStocksTest {
@@ -17,21 +16,12 @@ public class BuyAndSellStocksTest {
     }
 
     @Test
-    public void testBruteForce() {
+    public void testMaxProfit() {
+        List<Integer> listPrices = List.of(7, 1, 5, 3, 6, 4);
 
-        List<Integer> integers = Arrays.asList(10, 20, 15, 25, 5);
-        int maxProfit = buyAndSellStocks.computeMaxProfitBruteForce(integers);
+        int result = buyAndSellStocks.maxProfit(listPrices);
 
-        Assertions.assertEquals(15, maxProfit);
-    }
-
-    @Test
-    public void testComputeMaxProfit() {
-
-        List<Integer> integers = Arrays.asList(10, 20, 15, 25, 5);
-        int maxProfit = buyAndSellStocks.computeMaxProfit(integers);
-
-        Assertions.assertEquals(15, maxProfit);
+        Assertions.assertEquals(5, result);
     }
 
 }
