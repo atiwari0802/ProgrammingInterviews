@@ -31,7 +31,7 @@ public class KThLargestElement {
             else if (newPivotIndex > k -1) {
                 right = newPivotIndex -1;
             }
-            else{
+            else {
                 left = newPivotIndex+1;
             }
         }
