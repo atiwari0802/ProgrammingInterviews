@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 import java.util.List;
+import arrays.QuickSort;
 
 public class QuickSortTest {
 
@@ -19,8 +20,8 @@ public class QuickSortTest {
     public void testQuickSort() {
         List<Integer> input = Arrays.asList(6, 2, 1, 8, 4);
 
-        List<Integer> result = quickSort.performQuickSort(input, 0, input.size() - 1);
+        quickSort.quickSort(input, 0, input.size() - 1);
 
-        result.forEach(System.out::println);
+        input.forEach(System.out::println);
     }
 }

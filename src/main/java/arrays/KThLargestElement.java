@@ -1,60 +1,47 @@
 package arrays;
 
+
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 import java.util.Random;
 
 public class KThLargestElement {
 
     public int findKthLargestElement(List<Integer> input, int k) {
-
-        if(k > input.size() || input.size() == 0) {
-            return Integer.MIN_VALUE;
-        }
-        return findKThLargestElement(input, k , (a,b) -> Integer.compare(b,a));
-    }
-
-    private int findKThLargestElement(List<Integer> input, int k, Comparator<Integer> comparator) {
-
-        int left = 0, right = input.size() - 1;
+        int lo = 0;
+        int high = input.size() - 1;
+        k = input.size() - k;
         Random random = new Random();
+        int pivotIndex;
 
-        while (left <= right) {
-            int pivotIndex = random.nextInt(right - left + 1) + left;
-            System.out.printf("Random Pivot Is: %s%n", pivotIndex);
-            int newPivotIndex = partitionAroundPivot(input, left, right, pivotIndex, comparator);
-
-            if (newPivotIndex == k - 1) {
+        while (lo <= high) {
+            pivotIndex = random.nextInt(high - lo + 1) + lo;
+            int newPivotIndex = partitionAroundPivot(input, lo, high, pivotIndex);
+            if (newPivotIndex == k) {
                 return input.get(newPivotIndex);
-            }
-            else if (newPivotIndex > k -1) {
-                right = newPivotIndex -1;
-            }
-            else {
-                left = newPivotIndex+1;
+            } else if (newPivotIndex > k) {
+                high = newPivotIndex - 1;
+            } else {
+                lo = newPivotIndex + 1;
             }
         }
+
         return Integer.MIN_VALUE;
     }
 
-    private int partitionAroundPivot(List<Integer> input, int leftIndex, int rightIndex,
-                                     int pivotIndex, Comparator<Integer> comparator) {
+    private int partitionAroundPivot(List<Integer> numbers, int lo, int high, int pivotIndex) {
+        int n = high;
+        Collections.swap(numbers, pivotIndex, n);
+        pivotIndex = lo;
+        int pivot = numbers.get(n);
 
-        System.out.printf("Left: %s & Right: %s%n", leftIndex, rightIndex);
-        int pivotValue = input.get(pivotIndex);
-        int newPivot = leftIndex;
-
-        Collections.swap(input, pivotIndex, rightIndex);
-        for (int i = leftIndex; i < rightIndex; i++) {
-            if (comparator.compare(input.get(i), pivotValue) < 0) {
-                Collections.swap(input, i, newPivot++);
+        for (int i = lo; i < n; i++) {
+            if (numbers.get(i) < pivot) {
+                Collections.swap(numbers, pivotIndex, i);
+                pivotIndex++;
             }
         }
-        System.out.printf("New Pivot Index: %s%n", newPivot);
-        Collections.swap(input, rightIndex, newPivot );
-        return newPivot;
+        Collections.swap(numbers, pivotIndex, n);
+        return pivotIndex;
     }
-
-
 }

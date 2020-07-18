@@ -1,5 +1,6 @@
 package arrays;
 
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -26,6 +27,14 @@ public class RotateMatrixByNinetyTest {
     @Test
     public void testRotateMatrixByNinety() {
 
+        for (int i = 0; i < matrix.size(); i++) {
+            for (int j = 0; j < matrix.size(); j++) {
+                System.out.printf(":%s ", matrix.get(i).get(j));
+            }
+            System.out.println();
+        }
+        System.out.println();
+
         matrix = rotateMatrixByNinety.rotateMatrixByNinetyDegrees(matrix);
 
         for (int i = 0; i < matrix.size(); i++) {
@@ -36,4 +45,13 @@ public class RotateMatrixByNinetyTest {
         }
 
     }
+
+    @Test
+    public void testDouble() {
+        int i = 5;
+        System.out.print((double) i / 2);
+
+    }
+
+
 }

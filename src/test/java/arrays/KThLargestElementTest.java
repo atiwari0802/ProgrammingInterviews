@@ -6,6 +6,7 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.Comparator;
 
 public class KThLargestElementTest {
 
@@ -23,7 +24,10 @@ public class KThLargestElementTest {
 
         int thirdLargestElement = kThLargestElement.findKthLargestElement(input, 3);
 
-        Assertions.assertEquals(10,  thirdLargestElement);
+        Assertions.assertEquals(10, thirdLargestElement);
+        System.out.println(thirdLargestElement);
 
+        input.sort(Comparator.reverseOrder());
+        input.forEach(n -> System.out.printf("%d ", n));
     }
 }
