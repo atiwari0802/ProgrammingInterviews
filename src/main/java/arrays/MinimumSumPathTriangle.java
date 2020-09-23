@@ -17,7 +17,7 @@ public class MinimumSumPathTriangle {
      * The minimum path sum will be stored in the first element minimum path array.
      *
      * Time Complexity: O(m X n)
-     * Space Complexity: O(K : size of the largest row) 
+     * Space Complexity: O(K : size of the largest row)
      * */
     public int minimumSumPathTriangle(List<List<Integer>> triangle) {
         List<Integer> minimumPath = new ArrayList<>();
